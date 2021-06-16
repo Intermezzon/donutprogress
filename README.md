@@ -22,7 +22,7 @@ Then since this is a web component, we just use the tag `iz-donutprogres`
 ```
 
 this will produce
-![alt text](https://github.com/Intermezzon/donutprogress/blob/main/images/test1.jpg?raw=true)
+![alt text](https://github.com/Intermezzon/donutprogress/blob/main/images/test1.png?raw=true)
 
 ## Attributes
 
@@ -33,4 +33,3 @@ this will produce
  - **stroke:** Stroke size. Default 10
  - **color:** Color of the progressbar. Default rgba(255,0,0,0.7)
  - **reverse:** Set if progress should visualize counter clock wise
- 
