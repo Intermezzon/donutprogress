@@ -1,0 +1,21 @@
+{
+  "name": "@intermezzon/donutprogress",
+  "version": "1.0.0",
+  "description": "Donut progress web component",
+  "scripts": {
+    "build": "babel src -d lib && terser lib/iz-donutprogress.js --compress --mangle -o lib/iz-donutprogress.min.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Intermezzon/donutprogress.git"
+  },
+  "author": "Intermezzon",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.5",
+    "terser": "^5.7.0"
+  }
+}
