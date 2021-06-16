@@ -1,6 +1,6 @@
 {
   "name": "@intermezzon/donutprogress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Donut progress web component",
   "scripts": {
     "build": "babel src -d lib && terser lib/iz-donutprogress.js --compress --mangle -o lib/iz-donutprogress.min.js"
